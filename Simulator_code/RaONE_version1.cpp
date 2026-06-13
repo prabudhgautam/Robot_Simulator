@@ -25,7 +25,7 @@ class sensor_output {
     float getDistance() {
         return distance;
     }
-};
+}; 
 
 class RaONE_Brain {
     public: void data_process() {
